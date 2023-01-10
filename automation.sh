@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo sudo apt update; `date`
+sudo apt update; echo `date`
